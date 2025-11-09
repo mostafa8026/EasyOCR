@@ -10,3 +10,5 @@ PyYAML
 Shapely
 pyclipper
 ninja
+gradio
+pandas

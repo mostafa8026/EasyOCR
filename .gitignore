@@ -107,3 +107,8 @@ ENV/
 .vscode/
 .vs/
 .idea/
+
+# Local demo assets
+demo_samples/
+result.jpg
+.gradio
